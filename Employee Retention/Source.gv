@@ -1,0 +1,9 @@
+digraph Tree {
+node [shape=box] ;
+rankdir=LR ;
+0 [label="employment_length <= 364.5\ngini = 0.5\nsamples = 100.0%\nvalue = [0.5, 0.5]"] ;
+1 [label="gini = 0.0\nsamples = 27.2%\nvalue = [0.0, 1.0]"] ;
+0 -> 1 [labeldistance=2.5, labelangle=-45, headlabel="True"] ;
+2 [label="gini = -0.0\nsamples = 72.8%\nvalue = [1.0, 0.0]"] ;
+0 -> 2 [labeldistance=2.5, labelangle=45, headlabel="False"] ;
+}
