@@ -1,0 +1,2 @@
+time,x,y,z,phi,theta,psi,x_velocity,y_velocity,z_velocity,phi_velocity,theta_velocity,psi_velocity,rotor_speed1,rotor_speed2,rotor_speed3,rotor_speed4
+0.06,-0.270170382597,0.349740415326,0.0,6.28318353763,1.22616729693,0.0,-4.11534343241,5.8060465619,-25.1727802484,-9.19910574255e-05,10.8115583946,0.0,2.96273e-05,900.0,899.996,899.992
